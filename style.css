@@ -1,0 +1,184 @@
+body {
+    font-family: Roboto sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+    padding: 0%;
+}
+
+.glory {
+    background-color: #1f2937;
+    padding: 80px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    color: #f9faf8;
+    font-size: 18px;
+    margin-bottom: 34px;
+    
+}
+.logo{
+    font-weight: bolder;
+    
+}
+.zara {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+}
+
+.ball {
+    background-color: #3882f6;
+    padding: 50px;
+}
+a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0px;
+    gap: 16px;
+    list-style-type: none;
+}
+.tochi .sign
+ {
+    background-color: #3882f6;
+    border: 1px solid royalblue;
+    color: white;
+    border-radius: 8px;
+    width: 100px;
+    height: 36px;
+    padding: 8px 24px;
+    margin: 0;
+}
+
+.kath {
+    justify-content: center;
+    align-items: center;
+    gap: 38px;
+    padding: 90px;
+    height: 90px
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-top: 24px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: light;
+    color: #1f2937;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+    width: px;
+}
+.water {
+    font-weight: bolder;
+    display: flex;
+} 
+
+.box,
+.one {
+  background-color: grey;
+  height: 200px;
+  width: 450px;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white; 
+  margin-left: auto;
+  margin-right: 0%;
+}
+
+.somke {
+    font-weight: bold;
+    
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+.emma {
+    background-color: #3882f6;
+    color: #f9faf8;
+    height: 60px;
+    width: 600px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+}
+
+.link {
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    padding-top: 1px;
+    height: 20px;
+    margin-left: 200px;
+    width: 100px;
+    padding-left: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-top: 24px;
+}
+.boxx,
+.two {
+    background-color: white;
+    border: 3px solid #3882f6;
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    display: flex;
+    flex-wrap: wrap;
+    width: 150px;   
+}
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    height: 80px;
+    font-size: 18px;
+}
